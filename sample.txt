@@ -1,1 +1,8 @@
 git studies
+clr - clear screen
+cd .. - back to local file
+cd . - back
+dir - directory list
+mkdir - make directory
+rmdir - remove directory
+d: - to move to specific drive
